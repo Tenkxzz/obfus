@@ -2,7 +2,7 @@
 tools yg berfungsi untuk menyembunyikan kode asli
 
 ---
-![alt text](https://github.com/Tenkxzz/acak-ktp-lite/blob/main/foto.jpg)
+![alt text](https://github.com/Tenkxzz/obfus/blob/main/preview.jpg)
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbC13UP1CYoODnULpp3E">
